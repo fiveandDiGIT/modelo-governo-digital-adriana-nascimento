@@ -49,6 +49,18 @@ The publication of this content aims to:
 - Intellectual development timeline
 
 ---
+## 📅 Linha do Tempo do Desenvolvimento Intelectual
+
+Este repositório registra o desenvolvimento intelectual do artigo,
+elaborado ao longo do curso de Pós-Graduação em Políticas Públicas,
+evidenciando a evolução teórica, metodológica e analítica da autora.
+
+- **Fase inicial** — Definição do tema, problema de pesquisa e escopo acadêmico.
+- **Fase intermediária** — Aprofundamento teórico em comunicação pública,
+  cidadania e governo eletrônico.
+- **Fase de consolidação** — Articulação crítica dos referenciais teóricos
+  e estruturação do argumento central.
+- **Fase final** — Redação definitiva, revisão acadêmica e normalização científica.
 
 ## ⚖️ Copyright
 
