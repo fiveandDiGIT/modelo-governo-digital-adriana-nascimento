@@ -75,3 +75,18 @@ Total or partial reproduction without express citation of the author is prohibit
 ## 🌐 Academic Contact
 
 (Soon)
+
+## Autoria e Reconhecimento
+
+Este projeto foi idealizado, desenvolvido e redigido por **Adriana Nascimento**, 
+configurando-se como obra intelectual original de caráter conceitual, acadêmico e social.
+
+O conteúdo, a estrutura, os textos e o modelo conceitual aqui apresentados constituem 
+prova de autoria e de anterioridade, nos termos da Lei nº 9.610/1998 
+(Lei de Direitos Autorais – Brasil).
+
+Este repositório público no GitHub tem como finalidade a divulgação científica, 
+a preservação da autoria e o registro histórico da criação.
+
+É vedada a reprodução total ou parcial, adaptação ou utilização do conteúdo 
+sem a devida citação da autora.
